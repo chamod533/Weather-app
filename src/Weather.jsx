@@ -53,6 +53,7 @@ function Weather() {
       <h2 className="subtitle">🌤 Real-Time Weather App</h2>
 
       <div className="search-box">
+      
         <input
           type="text"
           placeholder="Enter city name..."

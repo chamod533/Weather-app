@@ -1,7 +1,7 @@
 // Import Firebase core
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
-import { getFirestore } from "firebase/firestore"; // 👈 add this
+import { getFirestore } from "firebase/firestore"; 
 
 // Your Firebase config
 const firebaseConfig = {
